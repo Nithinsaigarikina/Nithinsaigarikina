@@ -15,6 +15,8 @@ I started in hardware — designing RF transceivers, writing RTL in Verilog, thi
 
 Now I work at **Verveo Solutions** as a Software Developer using .NET Core and Clean Architecture. The hardware background didn't go away — it just makes me a more precise software engineer.
 
+> Most of my professional work lives in a private Azure DevOps org at Verveo Solutions.
+
 ---
 
 ### Featured Projects
