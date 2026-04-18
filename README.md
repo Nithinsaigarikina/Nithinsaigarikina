@@ -13,7 +13,7 @@
 
 I started in hardware — designing RF transceivers, writing RTL in Verilog, thinking in signals and timing constraints. Then I built a backend system for an airport and never really left.
 
-Now I work at **Verveo Solutions** as Junior Software Developer using .NET Core and Clean Architecture. The hardware background didn't go away — it just makes me a more precise software engineer.
+Now I work at **Verveo Solutions** as Software Developer using .NET Core and Clean Architecture. The hardware background didn't go away — it just makes me a more precise software engineer.
 
 ---
 
