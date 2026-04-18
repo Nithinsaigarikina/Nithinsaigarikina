@@ -3,8 +3,8 @@
   ECE Graduate · Backend Engineer · Hardware → Software
 </p>
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> ·
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="https://linkedin.com/in/nithinsaigarikina">LinkedIn</a> ·
+  <a href="mailto:nithinsai.garikina@gmail.com">Email</a>
 </p>
 
 ---
@@ -13,7 +13,7 @@
 
 I started in hardware — designing RF transceivers, writing RTL in Verilog, thinking in signals and timing constraints. Then I built a backend system for an airport and never really left.
 
-Now I work at **Verveo Solutions** as Software Developer using .NET Core and Clean Architecture. The hardware background didn't go away — it just makes me a more precise software engineer.
+Now I work at **Verveo Solutions** as a Software Developer using .NET Core and Clean Architecture. The hardware background didn't go away — it just makes me a more precise software engineer.
 
 ---
 
@@ -22,8 +22,8 @@ Now I work at **Verveo Solutions** as Software Developer using .NET Core and Cle
 | | Project | What it does |
 |---|---|---|
 | ✈️ | [Airport Baggage Tracking](https://github.com/Nithinsaigarikina/airport-bag-tracking-system) | Real-time baggage tracking REST API |
-| 📁 | [File Transfer System](https://github.com/Nithinsaigarikina/YOUR_REPO) | Secure peer-to-peer file transfer |
-| 📍 | [GPS Alarm](https://github.com/Nithinsaigarikina/YOUR_REPO) | Location-triggered alarm app |
+| 📁 | [File Transfer](https://github.com/Nithinsaigarikina/File-Transfer) | Secure peer-to-peer file transfer |
+| 📍 | [GPS Alarm](https://github.com/Nithinsaigarikina/GpsAlarm) | Location-triggered alarm app |
 
 ---
 
